@@ -1,0 +1,8 @@
+name = "MujocoSim"
+uuid = "9ecbcd48-5670-11e9-3dbd-515b5e6d3880"
+authors = ["klowrey <kendall.lowrey@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+GLFW = "f7f18e0c-5ee9-5ccd-a5bf-e8befd85ed98"
+StaticArrays = "90137ffa-7385-5640-81b9-e52037218182"
